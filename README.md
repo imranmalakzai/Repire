@@ -76,7 +76,7 @@ Made with ❤️ by **Imran Malakzai**
 
 ## project image
 
-- - ![screenshot](./images/new.png)
+- - ![screenshot](./images/screenShot.png)
 
 ## 📄 License
 

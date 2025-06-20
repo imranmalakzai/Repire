@@ -1,73 +1,83 @@
-👟 Nike Shoes Landing Page
-A modern, fully responsive landing page for Nike Shoes, built with ReactJS and Tailwind CSS. Featuring dynamic product displays, interactive hover effects, and a clean layout optimized for all devices.
+# 🏗️ Construction & Repair Services Landing Page - React Project
 
-🚀 Features
+## 🚀 Project Overview
 
-🎯 Hero Section with stunning imagery and call-to-action
-🖼️ Dynamic Product Display – changes image based on selected shoe
-✨ Interactive Hover Effects for better user engagement
-💬 Testimonials Section showcasing customer feedback
-📱 Mobile-First Responsive Design
-📦 Modular Components for better scalability
-🌈 Modern UI Styling powered by Tailwind CSS
-🛠️ Technologies Used
-⚛️ React JS (Functional Components + Hooks)
-🎨 Tailwind CSS
-🖼️ Dynamic asset management
-✅ Vite (for fast build & dev)
+A modern, responsive landing page for construction and repair services built with React. This project showcases service offerings, client testimonials, and company information in an elegant layout.
 
-🧪 Setup Instructions
+---
 
-1. Clone the Repository
-   bash
-   Copy
-   Edit
-   git clone https://github.com/imranmalakzai/nike-shoes-landing-page.git
-   cd nike-shoes-landing-page
-2. Install Dependencies
-   bash
-   Copy
-   Edit
-   npm install
-3. Start the Development Server
-   bash
-   Copy
-   Edit
-   npm run dev
-   App will be live at: http://localhost:5173
+## 🛠️ Technologies Used
 
-📁 Folder Structure
-css
-Copy
-Edit
-src/
-├── assets/ # Images & shoe assets
-├── Components/ # All reusable React components
-│ ├── Hero.jsx
-│ ├── Footer.jsx
-│ ├── Testimonials.jsx
-│ └── ...
-├── App.jsx
-├── main.jsx
-public/
-├── index.html
-tailwind.config.js
-📸 Preview
-After pushing the screenshot, use:
+- ⚛️ React.js
+- 🎨 CSS3/Sass (or styled-components)
+- 🔣 React Icons (for shieldTick, truckFast icons)
+- 🚦 React Router (if multi-page)
 
-md
-Copy
-Edit
+## 📁 Folder Structure
 
-🔥 Live Demo
-👉 https://nikeshoes-afg.netlify.app
+```bash
+hoobank/
+├── public/
+├── src/
+│   ├── components/
+│   ├── assets/
+│   ├── App.jsx
+│   └── index.js
+├── tailwind.config.js
+├── postcss.config.js
+├── package.json
+└── README.md
+```
 
-✍️ Author
+---
 
-- Imran Malakzai
+## 🧪 Features
 
-project image 💖
-![Nike Landing Page Preview](./images/screenShot.png)
+- 💰 Stylish & modern banking UI
+- 🔐 Secure payment methods section
+- 📊 Real-time data and analysis mockups
+- 📱 Mobile-friendly and fully responsive
+- ✨ Smooth transitions and hover effects
 
-📜 License
-MIT License — Free to use, modify, and share.
+---
+
+## 📦 Installation
+
+```bash
+# Clone the repository
+git clone https://github.com/imranmalakzai/repire.git
+cd hoobank
+
+# Install dependencies
+npm install
+
+# Start the development server
+npm run dev
+```
+
+---
+
+> Or update the image path in the README accordingly.
+
+---
+
+## 🌍 Live Demo
+
+> 🔗 - https://construction-afg.netlify.app
+
+---
+
+## 🤝 Author
+
+Made with ❤️ by **Imran Malakzai**  
+📧 [afghanimran92@gmail.com]
+
+---
+
+## project image
+
+- - ![screenshot](./images/new.png)
+
+## 📄 License
+
+This project is open source and available under the [MIT License](LICENSE).
